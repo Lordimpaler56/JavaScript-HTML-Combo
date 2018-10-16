@@ -1,1 +1,1 @@
-# JavaScript-HTML-Combo
+# JavaScript HTML Combo
